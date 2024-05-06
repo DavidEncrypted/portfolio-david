@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+#   - davidEncrypted
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - DavidEncrypted/FusedMonocularDepth
+  - DavidEncrypted/bebop_cnn_obstacle_detection
+  - DavidEncrypted/GraphicsFinalProj
+  - DavidEncrypted/captcha
+  - DavidEncrypted/NaCoPenguinSearch
+  - DavidEncrypted/portfolio-david
+  - DavidEncrypted/qr_data_decoder
+  - DavidEncrypted/TriJam-GameJam
+  - WisterianTK/PDM_Project
