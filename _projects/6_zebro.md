@@ -12,18 +12,38 @@ I am part of the Software Engineering team of [Lunar Zebro](https://zebro.space/
 
 ---
 
-## --- MISSION PROFILE ---
-### DESTINATION
-**THE MOON**
+<center><h2> MISSION PROFILE </h2></center>
 
-### LAUNCH
-**NO EARLIER THAN 2025**
+<div class="row mt-2">
+    <div class="col-sm mt-2 mt-md-0">
+        <center>
+        <h4>DESTINATION</h4>
+        <b>THE MOON</b>
+        </center>
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+        <center>
+        <h4>LAUNCH</h4>
+        <b>NO EARLIER THAN 2025</b>
+        </center>
+    </div>
+</div>
 
-### MISSION DURATION
-**14 EARTH DAYS**
+<div class="row mt-2">
+    <div class="col-sm mt-2 mt-md-0">
+        <center>
+        <h4>MISSION DURATION</h4>
+        <b>14 EARTH DAYS</b>
+        </center>
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+        <center>
+        <h4>DISTANCE</h4>
+        <b>384,400 KM</b>
+        </center>
+    </div>
+</div>
 
-### DISTANCE
-**384,400 KM**
 
 ---
 
